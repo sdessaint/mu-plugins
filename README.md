@@ -9,4 +9,4 @@ Les principaux apports du fichier d'optimisation :
   - Bloquer les révisions des posts.
   - Supprimer définitivement les posts mis à la corbeille depuis 5 jours.
   - Supprimer définitivement les fichiers médias supprimés.
-  - Fermer la connection à la base de données qui est toujours active.
+  - Fermer la connexion à la base de données qui est toujours active.
